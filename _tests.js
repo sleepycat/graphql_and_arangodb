@@ -1,0 +1,15 @@
+require('should');
+require('sinon');
+require('should-sinon');
+require('./test/remark/api_test.js');
+require('./test/remark/components/slide-number_test.js');
+require('./test/remark/components/timer_test.js');
+require('./test/remark/controllers/defaultController_test.js');
+require('./test/remark/converter_test.js');
+require('./test/remark/lexer_test.js');
+require('./test/remark/models/slide_test.js');
+require('./test/remark/models/slideshow_test.js');
+require('./test/remark/parser_test.js');
+require('./test/remark/views/slideView_test.js');
+require('./test/remark/views/slideshowView_test.js');
+require('./test/test_dom.js');
