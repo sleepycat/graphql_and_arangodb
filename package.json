@@ -6,7 +6,7 @@
     "babel-jest": "^18.0.0",
     "graphql": "^0.9.1",
     "jest-cli": "^18.1.0",
-    "marked": "0.3.1"
+    "marked": "0.3.12"
   },
   "repository": {
     "type": "git",
